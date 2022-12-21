@@ -30,7 +30,11 @@ main h2 {
     background-color: black;
     padding: 3px;
 }
-
+.Eric-Style{
+    color: forestgreen;
+    background-color: black;
+    padding: 3px;
+}
 .code-ninja-style {
     color: blue;
     background-color: lightblue;
